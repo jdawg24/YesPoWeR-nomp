@@ -1,4 +1,4 @@
-# BitZeny - Node Open Mining Portal
+# YesPoWeR - Node Open Mining Portal
 [![Join the chat at https://github.com/ROZ-MOFUMOFU-ME/zny-nomp/](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ROZ-MOFUMOFU-ME/zny-nomp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Matrix](https://img.shields.io/matrix/zny-nomp:matrix.mofumofu.me?label=matrix)](https://app.element.io/#/room/#zny-nomp:matrix.mofumofu.me)
 [![Build Status](https://travis-ci.com/ROZ-MOFUMOFU-ME/zny-nomp.svg?branch=main)](https://travis-ci.org/ROZ-MOFUMOFU-ME/zny-nomp) 
@@ -13,15 +13,6 @@ This is beta software. All of the following are things that can change and break
 Usage of this software requires abilities with sysadmin, database admin, coin daemons, and sometimes a bit of programming. Running a production pool can literally be more work than a full-time job.
 
 
-### Community
-Forum
-* join: https://bitzeny.tech/
-
-Wiki
-* https://bitzeny.wiki.fc2.com/
-
-Discord
-* https://discord.gg/xmWd3yy
 
 If your pool uses ZNY-NOMP let us know and we will list your website here.
 
