@@ -66,7 +66,7 @@ Clone the repository and run `npm update` for all the dependencies to be install
 
 ```bash
 sudo apt-get install build-essential libsodium-dev npm libboost-all-dev libgmp3-dev
-sudo apt install nodejs node-gyp libssl1.0-dev -y
+sudo apt install nodejs node-gyp -y
 sudo apt install npm -y
 sudo npm install n -g
 sudo n v12
