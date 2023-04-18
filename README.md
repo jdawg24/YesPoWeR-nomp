@@ -1,4 +1,4 @@
-# YesPoWeR - Node Open Mining Portal
+# YesPoWeR - NOMP {MittsuKawa}
 [![Join the chat at https://github.com/ROZ-MOFUMOFU-ME/zny-nomp/](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ROZ-MOFUMOFU-ME/zny-nomp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Matrix](https://img.shields.io/matrix/zny-nomp:matrix.mofumofu.me?label=matrix)](https://app.element.io/#/room/#zny-nomp:matrix.mofumofu.me)
 [![Build Status](https://travis-ci.com/ROZ-MOFUMOFU-ME/zny-nomp.svg?branch=main)](https://travis-ci.org/ROZ-MOFUMOFU-ME/zny-nomp) 
