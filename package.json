@@ -1,7 +1,7 @@
 {
-    "name": "zny-nomp",
+    "name": "MittsuKawa",
     "version": "0.0.9",
-    "description": "BitZeny (yescrypt) stratum mining pool based on NOMP",
+    "description": "yesPoWer stratum mining pool based on NOMP",
     "keywords": [
         "stratum",
         "mining",
